@@ -1,0 +1,13 @@
+{
+  "card0": {
+    "title": "titulo JSON",
+    "image": "https://images.unsplash.com/photo-1665240571093-eb9be84fb182?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui eaque temporibus laborum tempore quo nisi exercitationem magni suscipit nemo consequatur. Fuga facilis veritatis voluptatibus! Eum illum porro  nesciunt distinctio earum."
+  },
+
+  "card1": {
+    "title": "titulo JSON",
+    "image": "https://images.unsplash.com/photo-1665240571093-eb9be84fb182?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui eaque temporibus laborum tempore quo nisi exercitationem magni suscipit nemo consequatur. Fuga facilis veritatis voluptatibus! Eum illum porro  nesciunt distinctio earum."
+  }
+}
